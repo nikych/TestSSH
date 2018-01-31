@@ -1,0 +1,11 @@
+.full{
+	width:100% !important;
+}
+.footer-div{
+	background-color: #333;
+	padding:15px;
+	color:white;
+}
+strong{
+	font-weight: normal!important;
+}
